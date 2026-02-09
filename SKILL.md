@@ -256,7 +256,3 @@ User: "Share the project-management plugin"
 - All plugins live in `~/Documents/www/Claude Plugins/plugins/` (clone of HartreeWorks/claude-plugins)
 - Plugin folder naming: `plugin--{plugin-name}`
 - **Always complete security review before publishing**
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
